@@ -11,3 +11,7 @@ These code files based on Arduino C code
 You can find more info about the project as research proposal at Research Gate :
 
 https://www.researchgate.net/publication/360269606_Smart_Water_Supply_and_Management_System
+<b>
+You can find this Project as Journal Publication at International Journal of Recent Technology and Engineering (IJRTE):
+
+http://doi.org/10.35940/ijrte.C7270.0911322
