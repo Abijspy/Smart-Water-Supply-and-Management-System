@@ -15,3 +15,7 @@ https://www.researchgate.net/publication/360269606_Smart_Water_Supply_and_Manage
 You can find this Project as Journal Publication at International Journal of Recent Technology and Engineering (IJRTE):
 
 http://doi.org/10.35940/ijrte.C7270.0911322
+
+You can find this Project also in Book chapter:
+
+https://stm.bookpi.org/RADER-V1/article/view/10105
