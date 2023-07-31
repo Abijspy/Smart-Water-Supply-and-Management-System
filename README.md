@@ -16,6 +16,6 @@ You can find this Project as Journal Publication at International Journal of Rec
 
 http://doi.org/10.35940/ijrte.C7270.0911322
 
-You can find this Project also in Book chapter:
+You can find this Project also in Book chapter named "Research and Developments in Engineering Research Vol. 1" Published By Book Publisher International:
 
 https://stm.bookpi.org/RADER-V1/article/view/10105
